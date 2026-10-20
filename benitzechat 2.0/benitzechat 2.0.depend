@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1792520668 source:d:\development\c\benitzechat 2.0\main.cpp
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
